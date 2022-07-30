@@ -32,7 +32,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "ui",
+  "name": "@2annalyse/ui",
   "author": "sandy zhang",
   "module": "dist/ui.esm.js",
   "size-limit": [
