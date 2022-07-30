@@ -59,6 +59,7 @@
     "url": "https://github.com/2annalyse/ui.git"
   },
   "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
     "access": "public"
   }
 }
